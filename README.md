@@ -1,0 +1,2 @@
+# stapel-core
+Organize life
